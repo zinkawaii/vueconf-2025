@@ -21,6 +21,7 @@
     "@slidev/theme-default": "catalog:",
     "@types/seedrandom": "catalog:",
     "@zinkawaii/eslint-config": "catalog:",
-    "eslint": "catalog:"
+    "eslint": "catalog:",
+    "playwright-chromium": "catalog:"
   }
 }
