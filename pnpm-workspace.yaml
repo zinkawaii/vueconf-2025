@@ -1,0 +1,21 @@
+shamefullyHoist: true
+
+overrides:
+  "@rolldown/pluginutils": 1.0.0-beta.10
+
+catalog:
+  "@antfu/eslint-config": ^4.14.1
+  "@iconify-json/devicon": ^1.2.29
+  "@iconify-json/logos": ^1.2.4
+  "@iconify-json/solar": ^1.2.2
+  "@slidev/cli": ^51.8.2
+  "@slidev/client": ^51.8.2
+  "@slidev/theme-default": ^0.25.0
+  "@types/seedrandom": ^3.0.8
+  "@zinkawaii/eslint-config": ^0.3.0
+  eslint: ^9.29.0
+  seedrandom: ^3.0.5
+  vue: ^3.5.17
+
+onlyBuiltDependencies:
+  - esbuild
